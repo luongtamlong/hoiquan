@@ -749,13 +749,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
 https://www.judy.xx.kg/websuper265.php?id=JUHD
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
+http://183.45.78.8:8890/bysid/82
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="Hong Kong và Macao",TVB News
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbxw
+http://183.45.78.8:8890/bysid/83
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
-https://mytv.cdn.loc.cc/o12.php?id=mzt
+http://183.45.78.8:8890/bysid/2
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
-https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
+http://183.45.78.8:8890/bysid/85
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
 http://110.235.82.60:8001/bysid/96
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true" group-title="Hong Kong và Macao", ViuTV
